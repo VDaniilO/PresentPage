@@ -41,7 +41,7 @@
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=VDaniilO&show_icons=true&theme=dracula"/ width="420">
+<img  src="https://github-readme-stats.vercel.app/api?username=VDaniilO&show_icons=true&repo=github-readme-stats&theme=dracula"/ width="420">
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VDaniilO&layout=compact"/ width="420">
