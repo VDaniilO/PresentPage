@@ -2,8 +2,6 @@
 
 ### My name is Daniil and i'm python developer (more backend)
 
-<img hight="200" width="300" alt="GIF" align="right" src="https://github.com/TaskForce73/TaskForce73/blob/main/testFolder/IMG_3704.JPG">
-
 ## - Stack:
 - Python
 - Django
