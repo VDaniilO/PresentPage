@@ -50,15 +50,7 @@
 
 </br> 
 
-# On dessert - my favorite musical artists and thanks for reading!
+<h1 align="center"> Thanks for reading! </h1>
 
-<img src="https://github.com/VDaniilO/PresentPage/blob/main/picture/album-art-cover-heavy-wallpaper-preview.jpeg" alt="Metallica" height="350" width="300"/>
 
-<img src="https://github.com/VDaniilO/PresentPage/blob/main/picture/264x264.jpeg" alt="Prodigy" height="264" width="264"/>
-
-<img src="https://github.com/VDaniilO/PresentPage/blob/main/picture/Aria-Chimera.jpeg" alt="Aria" height="350" width="300"/>
-
-<img src="https://github.com/VDaniilO/PresentPage/blob/main/picture/71-Y-3usHkL._AC_SL1500_.jpeg" alt="Arctic monkyes" height="350" width="300"/>
-
-<img src="https://github.com/VDaniilO/PresentPage/blob/main/picture/12094481629914368.png" alt="Korol and shut" height="350" width="300"/>
 
