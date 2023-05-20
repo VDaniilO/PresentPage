@@ -1,6 +1,6 @@
 <h1>Hello dear traveler, make yourself comfortable and enjoy watching </h1>
 
-### My name is Daniil and i'm python developer (more backend)
+### My name is Daniil and i'm python developer (backend)
 
 ## - Stack:
 - Python
